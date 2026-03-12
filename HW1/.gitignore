@@ -1,0 +1,6 @@
+data/
+*.wav
+.ipynb_checkpoints/
+.idea/
+/venv
+.venv/
