@@ -1,6 +1,11 @@
+# virtual environments
+venv/
+.venv
+# IDE / notebooks
+.idea/
+.ipynb_checkpoints/
+# data & audio
 data/
 *.wav
-.ipynb_checkpoints/
-.idea/
-/venv
-.venv/
+#lm files
+lm/4-gram.arpa.gz
